@@ -1,0 +1,12 @@
+C:\Users\anacr\AppData\Local\Temporary Projects\act16\bin\Debug\act16.exe
+C:\Users\anacr\AppData\Local\Temporary Projects\act16\bin\Debug\act16.pdb
+C:\Users\anacr\AppData\Local\Temporary Projects\act16\bin\Debug\act16.xml
+C:\Users\anacr\AppData\Local\Temporary Projects\act16\obj\x86\Debug\act16.Form1.resources
+C:\Users\anacr\AppData\Local\Temporary Projects\act16\obj\x86\Debug\act16.Resources.resources
+C:\Users\anacr\AppData\Local\Temporary Projects\act16\obj\x86\Debug\act16.vbproj.GenerateResource.Cache
+C:\Users\anacr\AppData\Local\Temporary Projects\act16\obj\x86\Debug\act16.exe
+C:\Users\anacr\AppData\Local\Temporary Projects\act16\obj\x86\Debug\act16.xml
+C:\Users\anacr\AppData\Local\Temporary Projects\act16\obj\x86\Debug\act16.pdb
+C:\Users\anacr\documents\visual studio 2010\Projects\act16\act16\obj\x86\Debug\act16.exe
+C:\Users\anacr\documents\visual studio 2010\Projects\act16\act16\obj\x86\Debug\act16.xml
+C:\Users\anacr\documents\visual studio 2010\Projects\act16\act16\obj\x86\Debug\act16.pdb
